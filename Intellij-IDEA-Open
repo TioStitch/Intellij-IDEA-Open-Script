@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd Downloads/idea-IC-233.14808.21/bin/
+./idea.sh
